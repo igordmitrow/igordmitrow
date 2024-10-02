@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Igor Dmitrow!
 
-<!--
-**igordmitrow/igordmitrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Python/JS Developer | 🎓 Student
 
-Here are some ideas to get you started:
+I'm a passionate developer specializing in Python and JavaScript. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills
+
+- **Programming Languages:** Python, JavaScript, PHP
+- **Databases:** SQL
+- **Testing:** Playwright
+- **Other:** HTML, CSS
+
+### 🎵 Beyond Coding
+
+When I'm not coding, I'm passionate about music. It helps me relax and find inspiration for new programming ideas.
+
+### 📚 Continuous Learning
+
+As a student, I'm always seeking new knowledge and opportunities for growth. I'm open to collaborating on interesting projects and learning new technologies.
+
+---
+
+⭐️ From [Igor Dmitrow](https://github.com/IgorDmitrow)
